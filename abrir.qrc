@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imagen">
+        <file>Recursos4/abrir.png</file>
+    </qresource>
+</RCC>

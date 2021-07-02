@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imagen">
+        <file>Recursos8/ayuda.png</file>
+    </qresource>
+</RCC>

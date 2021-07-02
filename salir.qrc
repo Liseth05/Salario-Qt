@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imagen">
+        <file>Recursos7/salir.png</file>
+    </qresource>
+</RCC>
