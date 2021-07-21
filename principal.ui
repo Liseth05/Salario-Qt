@@ -323,12 +323,12 @@ background-color: rgb(255, 228, 228);</string>
  </widget>
  <resources>
   <include location="guardar.qrc"/>
-  <include location="abrir.qrc"/>
-  <include location="calcular.qrc"/>
   <include location="nuevo.qrc"/>
+  <include location="calcular.qrc"/>
+  <include location="icono.qrc"/>
+  <include location="abrir.qrc"/>
   <include location="salir.qrc"/>
   <include location="ayuda.qrc"/>
-  <include location="icono.qrc"/>
  </resources>
  <connections/>
 </ui>

@@ -23,12 +23,19 @@ FORMS += \
     acerca.ui \
     principal.ui
 
+TRANSLATIONS += \
+    Salario_es_EC.ts \
+    Salario_ru_RU.ts \
+    Salario_it_IT.ts
+
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 RESOURCES += \
+    Recursos.qrc \
+    Traduccion.qrc \
     abrir.qrc \
     ayuda.qrc \
     calcular.qrc \
